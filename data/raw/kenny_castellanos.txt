@@ -1,0 +1,202 @@
+Source: Rate My Professors
+Professor: Kenny Castellanos
+School: DePaul University
+Department: Computer Science
+Overall Quality: 1.5 / 5
+Number of Ratings: 16
+Would Take Again: 13%
+Level of Difficulty: 4.8 / 5
+Source URL: https://www.ratemyprofessors.com/professor/2986166
+
+Reviews:
+
+Review 1
+Course: CSC300
+Date: Apr 23rd, 2025
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+Online Class: Yes
+Review: AVOID at all cost please. take some else please
+Tags: Get Ready To Read, Clear Grading Criteria, Hilarious
+
+Review 2
+Course: CSC300
+Date: Feb 27th, 2025
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Review: I wish I can give this a 0 but can't. I dropped out of his class, because he wouldn't help or was being rude when asking a question. AVOID AT ALL COST.
+
+Review 3
+Course: CSC380
+Date: Dec 12th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: Yes
+Review: One of the worst professors I have ever had at the University. He is rude, boring and cannot lecture. Avoid his class at all cost.
+
+Review 4
+Course: CSC380
+Date: Nov 26th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Online Class: Yes
+Review: TERRIBLE. He would take FOREVER to grade the assignments, the assignments were very difficult, and the final was very long and difficult. The class is interesting and useful but he's a very boring professor who just reads off slides and it'll bore you easily
+Tags: Tough Grader, Lecture Heavy, Graded by Few Things
+
+Review 5
+Course: CSC301
+Date: Oct 29th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: I had a bad experience in his class. While it's clear that he is passionate about coding, his strict due dates make it challenging for students who have jobs and other activities to keep up. Additionally, his explanations can often be confusing. Although the material he provides is somewhat helpful, it often lacks clarity. Please be aware
+Tags: Tough Grader, Lecture Heavy, Test Heavy
+
+Review 6
+Course: CSC300
+Date: Oct 22nd, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: N/A
+Review: The professor is genuinely very passionate about coding and has a lot of knowledge on it, but I feel like he doesn't know how to share it. His teaching methods, just in general teaching, aren't really a good job for him. Felt very lost majority of the quarter even though I understood the basics of Java. Don't take him please, save yourself.
+Tags: Lots of Homework, Lecture Heavy, Test Heavy
+
+Review 7
+Course: CSC402
+Date: Oct 10th, 2024
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B-
+Textbook: N/A
+Review: This class is challenging, but active participation will help you gain a lot. It focuses on data structures, not Java, and handling unfamiliar languages is important in our major. Concepts are clear, and assignments reinforce learning. Exams are tough but fair if you understand the material. Highly recommended for serious learners.
+Tags: Gives Good Feedback, Respected, Accessible Outside Class
+
+Review 8
+Course: CSC300
+Date: Jun 5th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Review: I read all the reviews, even the 5 star one of him, and let me say that this is definitely the professors fault and not the student's. Its true you can't "hand feed" all the information, but the fact that for the midterm the majority of ALL his classes combined was an average of 32% shows this isn't a student issue, it's a teacher issue. DONT TAKE
+Tags: Lecture Heavy, Test Heavy
+
+Review 9
+Course: CSC300
+Date: May 16th, 2024
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: There are a lot of negative reviews of his teaching, but in reality, he is a great professor. Those who give him negative reviews are simply unwilling to learn on their own. This class is about learning Java after all, and it would be impossible for ANY professor to spoon-feed the amount of material in the course. He's also very easy to reach.
+Tags: Clear Grading Criteria, Test Heavy, Accessible Outside Class
+
+Review 10
+Course: CSC300
+Date: May 16th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: He is the worst CS professor I have ever had. He doesn't teach well at all and gives unrealistic due dates. DO not Take his Class!!!
+Tags: Tough Grader, Lots of Homework, Test Heavy
+
+Review 11
+Course: CSC300
+Date: May 12th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: In the CSC 300 description it states, "The course introduces basic Java programming...", yet this professor does not teach you the basics of Java programming. You have to already know it before actually entering the class. I had to YouTube all the basics and subjects he taught because of how awful he was at teaching Java. DON'T TAKE HIS CLASS. bancaria registrada impuestos y otros cargos son extra y sujetos a cambios. 5 años
+Tags: Tough Grader, Lots of Homework, Lecture Heavy
+
+Review 12
+Course: CSC402
+Date: May 8th, 2024
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: The teacher is clearly passionate about programming. But I was so confused and wondered if he even knew what he was talking about. People always say that if you're really good at something, you should be able to explain and teach it well. Well either this professor isn't good at programming or he is just a terrible teacher/mentor. DON'T TAKE CLASS.
+Tags: Lots of Homework, Lecture Heavy, Test Heavy
+
+Review 13
+Course: CSC402
+Date: May 2nd, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Review: I honestly don't even believe god can help this professor become better. I truly cannot wait for the day this professor leaves Depaul. He was absolutely no help at all in learning proper Data Structure I. I regret not dropping this class ASAP, he is possibly the worst professor I have ever had at Depaul. Waste of money, and waste of time. bancaria registrada impuestos y otros cargos son extra y sujetos a cambios. 5 años
+Tags: Tough Grader, Lecture Heavy, Test Heavy
+
+Review 14
+Course: CSC402
+Date: Apr 28th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Literally have never had such a horrific experience. I wish I was exaggerating but this professor made it seem like computer science isn't meant for me. He doesn't actually teach Intro to Java since he explains it as if we knew all the basics of Java. So basically you are supposed to learn all of Java on your own. He is little to no help at all.
+Tags: Tough Grader, Lots of Homework, Lecture Heavy
+
+Review 15
+Course: CSC402
+Date: Apr 19th, 2024
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: One the first day, he mentioned a lot of students in the previous quarter took his class and failed. He is brilliant but not fit to teach any Intro or foundational course. He was right a lot of us that took his class are now re-taking it with another professor.
+
+Review 16
+Course: CSC402
+Date: Feb 13th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: This class was the worst one I have ever taken counting all my undergraduate and graduate work. The Prof. is very bright but should not be teaching beginners anything. In this class, you are told on day 1 that you have to learn Java on your own. This is not acceptable for a college or university when you are paying for instruction.
+Tags: Lots of Homework

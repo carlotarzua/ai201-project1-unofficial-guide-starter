@@ -1,0 +1,75 @@
+Source: Rate My Professors
+Professor: Emily Barnard
+School: DePaul University
+Department: Mathematics
+Overall Quality: 4.6 / 5
+Number of Ratings: 5
+Would Take Again: 100%
+Level of Difficulty: 3.2 / 5
+Source URL: https://www.ratemyprofessors.com/professor/3042842
+
+Reviews:
+
+Review 1
+Course: MAT150
+Date: Apr 6th, 2026
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Review: Easily the best professor I have taken at DePaul. Actually cares about her students and formats the lectures in a digestible way. Also always available outside of class and during office hours. Very happy with this class, would 100 percent take again!
+Tags: Amazing Lectures, Clear Grading Criteria, Accessible Outside Class
+
+Review 2
+Course: MAT302
+Date: Mar 27th, 2026
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Review: Super nice and actually wants people to learn the material. She gives out worksheets which is nice.
+Tags: Participation Matters, Gives Good Feedback, Caring
+
+Review 3
+Course: MAT151
+Date: Nov 12th, 2025
+Quality: 3.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: Yes
+Review: Dr. Barnard made calc 2 hard but easy to understand. However tests are much more difficult than expected. She is not accessible over email, only if you show up to her scheduled office hours. Homework is 30% of your grade, and quizzes are hard.
+Tags: Tough Grader, Amazing Lectures
+
+Review 4
+Course: MAT151
+Date: Aug 28th, 2025
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: calc 2 was hard (me being someone who isn't a math major) but prof. Barnard makes it tolerable and is always willing to help
+Tags: Gives Good Feedback, Caring, Accessible Outside Class
+
+Review 5
+Course: MAT302
+Date: May 9th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C
+Textbook: N/A
+Review: I thought combinatorics was kind of a hard class, and I was sick with a ear infection that led me to miss class halfway through quarter but Dr Barnard is super nice and a really good professor. I disliked IBL and would not recommend taking it unless you are a strong and dedicated math student and can self teach.
+Tags: Gives Good Feedback, Caring, Respected

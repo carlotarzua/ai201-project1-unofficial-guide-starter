@@ -1,0 +1,187 @@
+Source: Rate My Professors
+Professor: Juan Hu
+School: DePaul University
+Department: Mathematics
+Overall Quality: 4.7 / 5
+Number of Ratings: 13
+Would Take Again: 93%
+Level of Difficulty: 2.2 / 5
+Source URL: https://www.ratemyprofessors.com/professor/1984823
+
+Reviews:
+
+Review 1
+Course: MATH449
+Date: Apr 19th, 2026
+Quality: 1.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review: She struggles a lot in class while using R, it feels like as if she doesn't really know how the code works. The lecture material is helpful but since the class focuses on coding its hard to understand what she is trying to teach us while coding. She uploads her code which usually works if I try it on my own. She doesn't go over the homework inclass
+Tags: Lecture Heavy
+
+Review 2
+Course: MAT137
+Date: Jan 6th, 2026
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Super easy class, nice professor, a lot of time to do assignments
+Tags: Gives Good Feedback, Graded by Few Things, Accessible Outside Class
+
+Review 3
+Course: MAT137
+Date: Nov 19th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: N/A
+Review: She explains everything very well. If you pay attention and practice you'll be fine. She's a very relaxed professor (and very bad with names). She uses pearsons(you have to pay for the website) for homework and quizzes. The only in class work are the activities. She lets you leave once you finish the activity for the day.
+Tags: Amazing Lectures, Clear Grading Criteria, Respected
+
+Review 4
+Course: MAT137
+Date: Jul 4th, 2025
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: When you take Math 137, be sure to choose this professor. Juan Hu's class was very easy, the midterm and final were almost the same as their practice counterpart, which helped greatly.
+Tags: Clear Grading Criteria, Lecture Heavy
+
+Review 5
+Course: MAT353
+Date: Jun 28th, 2025
+Quality: 3.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: I had Prof Hu for both MAT 353 and 137. She understands stats concepts but is not proficient in R or Excel and frequently asked the class for help with errors in her formulas/code. Many of the written materials she provided also had errors. She is caring and happy to answer questions, but her explanations can be confusing. Homework/exams are easy.
+
+Review 6
+Course: MAT137
+Date: Nov 12th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: she is the best professor I've ever taken! She is always respectful and full of joy!
+Tags: Amazing Lectures, Hilarious, Caring
+
+Review 7
+Course: MAT137
+Date: Oct 17th, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: very nice professor, cares about students. I would recommend.
+Tags: Respected
+
+Review 8
+Course: MAT137
+Date: Oct 15th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: She's the best SATS professor, midterm was like the practice she provided. Homework is so easy and understandable, and lectures were good to learn!
+Tags: Amazing Lectures, Clear Grading Criteria, Hilarious
+
+Review 9
+Course: MAT351
+Date: Jan 3rd, 2023
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: Thoroughly understand how to solve the lecture and practice midterm/final questions to ensure you do well. There are 2 midterms = 30%, hw=40%, final = 30%. I found doing hw wasn't helpful but make sure to do a good job since it has a lot of weight, but focus on knowing how to answer the lecture problems and the practice exams she posts.
+Tags: Lots of Homework, Test Heavy, Graded by Few Things
+
+Review 10
+Course: MAT351
+Date: Dec 6th, 2022
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: Prof. Hu basically goes over lecture notes you can get from D2L. Homework helps out with each chapter and for the exams. 2 Midterms and a Final were graded pretty thoroughly, nothing to ruin your grade. Definitely take her!
+Tags: Clear Grading Criteria, Gives Good Feedback, Lecture Heavy
+
+Review 11
+Course: MAT356
+Date: Jan 5th, 2021
+Quality: 4.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: Her lectures are very tough, you will better understand them if you read the book beforehand. If you don't, you'll be confused fast. The homework is not bad, especially if you have read and tried to understand the lecture before doing it. She is very knowledgable in the field and is willing to help. Final project is not bad either.
+Tags: Get Ready To Read, Group Projects, Lecture Heavy
+
+Review 12
+Course: MAT328
+Date: Mar 28th, 2019
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: She is a great professor. The class material is challenging, but she is always willing to explain things through and is available for help outside of class. There's really nothing bad to say about her.
+Tags: Respected, Inspirational, Graded by Few Things
+
+Review 13
+Course: MATH449
+Date: Jun 10th, 2018
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: very nice professor! she is kind to every student.
+
+Review 14
+Course: MAT137
+Date: Jun 5th, 2018
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Would Take Again: Yes
+Grade: C+
+Textbook: Yes
+Review: Professor Juan Hu is an extremely well-respected intellectual. As an intellectual, Professor Juan Hu breaks down Business Statistics examples by referencing to Real-Life scenarios. Real-Life scenarios inspire me to work hard inside and outside of the classroom in the tutoring lab. Professor Juan Hu cares a lot for her students and their future end
+Tags: Respected, Inspirational, Caring
